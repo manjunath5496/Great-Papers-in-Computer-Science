@@ -55,6 +55,6 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Great-Papers-in-Computer-Science/blob/master/gpc(32).pdf" style="text-decoration:none;"> Programming Considered as a Human Activity</a></b></li>
 
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Great-Papers-in-Computer-Science/blob/master/gpc(33).pdf" style="text-decoration:none;"> On Computable Numbers, with an Application to the Entscheidungsproblem: A Correction</a></b></li>
 
 </ul>
